@@ -6,7 +6,8 @@
 
 ## 내용 
 - 농산물 가격과 날씨 데이터를 합친 데이터셋을 학습 후 미래의 농산물 가격 예측 
-- 7일 단위로 학습데이터가 들어간 후 8일 째를 예측 
+- 7일 단위로 학습데이터가 들어간 후 8일 째를 예측
+- 원본 : https://github.com/woochan94/Tensorflow_RNN/tree/master?tab=readme-ov-file#1-3-%EB%82%A0%EC%94%A8%EC%99%80-%EB%86%8D%EC%82%B0%EB%AC%BC-%EA%B0%80%EA%B2%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8F%99%EA%B8%B0%ED%99%94
 
 <hr>
 
